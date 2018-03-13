@@ -1021,14 +1021,14 @@
       "frameworks": {
         "monoandroid80": {
           "projectReferences": {
-            "C:\\Users\\ayella\\Documents\\TestSample\\TestSample\\TestSample\\TestSample.csproj": {
-              "projectPath": "C:\\Users\\ayella\\Documents\\TestSample\\TestSample\\TestSample\\TestSample.csproj"
+            "C:\\Users\\ayella\\Documents\\TestSample\\TestSample\\Instagram\\Instagram.Client\\Instagram.Client.csproj": {
+              "projectPath": "C:\\Users\\ayella\\Documents\\TestSample\\TestSample\\Instagram\\Instagram.Client\\Instagram.Client.csproj"
             },
             "C:\\Users\\ayella\\Documents\\TestSample\\TestSample\\Instagram\\Instagram.Models\\Instagram.Models.csproj": {
               "projectPath": "C:\\Users\\ayella\\Documents\\TestSample\\TestSample\\Instagram\\Instagram.Models\\Instagram.Models.csproj"
             },
-            "C:\\Users\\ayella\\Documents\\TestSample\\TestSample\\Instagram\\Instagram.Client\\Instagram.Client.csproj": {
-              "projectPath": "C:\\Users\\ayella\\Documents\\TestSample\\TestSample\\Instagram\\Instagram.Client\\Instagram.Client.csproj"
+            "C:\\Users\\ayella\\Documents\\TestSample\\TestSample\\TestSample\\TestSample.csproj": {
+              "projectPath": "C:\\Users\\ayella\\Documents\\TestSample\\TestSample\\TestSample\\TestSample.csproj"
             }
           }
         }
