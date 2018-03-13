@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TestSample"
+             x:Class="TestSample.MainPage">
+    <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Latitude : " />
+            <Label Text="" x:Name="LatitudeLabel"  />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Longitude : " />
+            <Label Text="" x:Name="LongitudeLabel"  />
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Search on Instagram : " />
+            <Entry Text="" x:Name="SearchText" WidthRequest="100" Placeholder="Search here" />
+        </StackLayout>
+
+        <Button Text="Go for Detail" x:Name="DetailButton"></Button>
+    </StackLayout>
+
+
+</ContentPage>

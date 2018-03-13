@@ -1,0 +1,16 @@
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\obj\Debug\netstandard2.0\TestSample.csproj.CoreCompileInputs.cache
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\obj\Debug\netstandard2.0\TestSample.App.xaml.g.cs
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\obj\Debug\netstandard2.0\TestSample.DetailPage.xaml.g.cs
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\obj\Debug\netstandard2.0\TestSample.MainPage.xaml.g.cs
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\obj\Debug\netstandard2.0\TestSample.AssemblyInfoInputs.cache
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\obj\Debug\netstandard2.0\TestSample.AssemblyInfo.cs
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\obj\Debug\netstandard2.0\TestSample.dll
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\obj\Debug\netstandard2.0\TestSample.pdb
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\obj\Debug\netstandard2.0\TestSample.csprojResolveAssemblyReference.cache
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\bin\Debug\netstandard2.0\TestSample.deps.json
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\bin\Debug\netstandard2.0\TestSample.dll
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\bin\Debug\netstandard2.0\TestSample.pdb
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\bin\Debug\netstandard2.0\InstagramClient.dll
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\bin\Debug\netstandard2.0\InstagramModels.dll
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\bin\Debug\netstandard2.0\InstagramClient.pdb
+C:\Users\ayella\Documents\TestSample\TestSample\TestSample\bin\Debug\netstandard2.0\InstagramModels.pdb
